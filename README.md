@@ -23,4 +23,4 @@ Este reto fue desarrollado por:
 # Metodología y descripción general
 Se plantea el desafío de mejorar y optimizar la arquitectura U-net suministrada por los profesores para la segmentación automática de vehículos en imágenes tomadas por drones en Colombia. El objetivo es implementar pasos de aumento de datos, modificaciones en la red neuronal, utilización de pesos preentrenados, funciones de pérdida personalizadas y la selección de hiperparámetros. Esto permitirá mejorar las capacidades predictivas del algoritmo, ya sea ajustando los hiperparámetros, las funciones de activación, el tamaño de partición de las imágenes o la propia estructura de la U-net proporcionada, mientras se realiza una etapa de aumento de datos para enriquecer el conjunto de entrenamiento inicialmente suministrado.
 
-FALTA PONER QUE SE HIZO
+En el notebook se encuentra por medio de comentarios cada cosa que intentamos cambiar, como influyó en nuestro modelo y se observan los resultados obtenidos con el que podemos decir que fue el mejor que pudimos tener, al final del todo hay una conclusion sobre lo que pudimos inferir de nuestra red neuronal.
